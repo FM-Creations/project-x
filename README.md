@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
@@ -266,3 +267,5 @@ project-x
 
 Action Lists
 >>>>>>> 0772ec9862e866a87b0ec7a0655ec60a4da2a34c
+=======
+>>>>>>> 50dd83cbeaf68be6b58a89df34fe3a6333c8405f
